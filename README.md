@@ -1,4 +1,4 @@
-# Assignment 03 - Iris Classifier Streamlit App 
+# Iris Classifier Streamlit App 
 
 ## Files created
 1. train_model.py        : Training the RandomForest model and save rf_model.joblib
