@@ -1,7 +1,7 @@
 # Iris Classifier Streamlit App 
 
 ## Files created
-1. training_model.py        : Training the RandomForest model and save rf_model.joblib
+1. training_model.py        : Training the RandomForest model and save iris_model.joblib
 2. iris_model.joblib       : Trained model and metadata (features, target_names)
 3. Iris_app.py                : Streamlit app for prediction and exploration
 4. data_exploration.py   : To compute descriptive stats and save histograms
@@ -15,9 +15,9 @@
    pip install -r requirements.txt
 
 3. To retrain the model:
-   python train_model.py
+   python training_model.py
 
-   This will create or update the 'rf_model.joblib' in the current folder.
+   This will create or update the 'iris_model.joblib' in the current folder.
 
 4. To run the Streamlit app:
    streamlit run Iris_app.py
