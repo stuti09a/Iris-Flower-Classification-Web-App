@@ -26,4 +26,4 @@
 
 ## Notes
 1. The app contains two modes: Prediction and Data Exploration ( using histograms and scatter plots).
-2. The trained model file 'rf_model.joblib' is included.
+2. The trained model file 'iris_model.joblib' is included.
