@@ -138,4 +138,4 @@ elif page == "Prediction":
 # Footer
 
 st.markdown("---")
-st.caption("Developed by Stuti Agarwal | Random Forest Classifier | Streamlit APP Demo")
+st.caption("Developed by Stuti Agarwal | Random Forest Classifier | Streamlit APP")
